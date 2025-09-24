@@ -1,2 +1,4 @@
 # resumo-introd-cloud
 Este repositório reúne um resumo das principais lições aprendidas durante a realização do laboratório na DIO.
+Durante esse primeiro contato com os conteúdos de Introdução à Cloud — Microsoft Azure, pude conhecer novos conceitos, como o que é a nuvem, qual a importância dela para as organizações e até mesmo para usuários que a utilizam, quais são os modelos e a comparação entre modelos de nuvem, além dos tipos de despesas ligadas a ela. Para mim, um dos maiores aprendizados foi entender o quão vasto é o impacto, a robustez e o papel da nuvem no dia a dia das corporações — envolvendo desde rede e computação até armazenamento e disponibilidade de máquinas para seus usuários (em caso de nuvem pública).
+Além disso, foi interessante notar que os custos só são adicionados e cobrados à medida que os serviços são utilizados. Assim, caso a empresa não queira ou precise daquele serviço, ela pode cancelá-lo a qualquer momento, sem prejuízos financeiros.
